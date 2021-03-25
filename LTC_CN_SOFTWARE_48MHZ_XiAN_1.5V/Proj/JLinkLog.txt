@@ -1,0 +1,28 @@
+
+T0AF8 000:520 SEGGER J-Link V4.90 Log File (0001ms, 0286ms total)
+T0AF8 000:520 DLL Compiled: Jul 28 2014 10:35:20 (0001ms, 0286ms total)
+T0AF8 000:520 Logging started @ 2018-01-25 11:15 (0001ms, 0286ms total)
+T0AF8 000:521 JLINK_SetWarnOutHandler(...) (0000ms, 0286ms total)
+T0AF8 000:521 JLINK_OpenEx(...)
+Firmware: J-Link V9 compiled Dec  2 2016 15:35:20
+Hardware: V9.40
+S/N: 59406729
+Feature(s): RDI, GDB, FlashDL, FlashBP, JFlash  returns O.K. (0275ms, 0561ms total)
+T0AF8 000:796 JLINK_SetErrorOutHandler(...) (0000ms, 0561ms total)
+T0AF8 000:796 JLINK_ExecCommand("ProjectFile = "F:\LTC_CN\software\LTC_CN_SOFTWARE_48MHZ_20180124_v1.052\Proj\JLinkSettings.ini"", ...)  returns 0x00 (0001ms, 0562ms total)
+T0AF8 000:804 JLINK_ExecCommand("Device = STM32F030F4", ...)Device "STM32F030F4" selected (16 KB flash, 4 KB RAM).  returns 0x00 (0003ms, 0565ms total)
+T0AF8 000:807 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0565ms total)
+T0AF8 000:807 JLINK_GetHardwareVersion()  returns 0x16F30 (0000ms, 0565ms total)
+T0AF8 000:807 JLINK_GetDLLVersion()  returns 49000 (0000ms, 0565ms total)
+T0AF8 000:807 JLINK_GetFirmwareString(...) (0000ms, 0565ms total)
+T0AF8 000:834 JLINK_GetDLLVersion()  returns 49000 (0000ms, 0565ms total)
+T0AF8 000:834 JLINK_GetCompileDateTime() (0000ms, 0565ms total)
+T0AF8 000:838 JLINK_GetFirmwareString(...) (0000ms, 0565ms total)
+T0AF8 000:841 JLINK_GetHardwareVersion()  returns 0x16F30 (0000ms, 0565ms total)
+T0AF8 000:853 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0004ms, 0569ms total)
+T0AF8 000:857 JLINK_SetSpeed(500) (0001ms, 0570ms total)
+T0AF8 000:858 JLINK_GetId() >0x108 TIF> >0x108 TIF>STM32F0xxx: Can not connect to CPU. Trying connect under reset. >0x108 TIF> >0x108 TIF>
+  ***** Error: STM32F0xxx: Connecting to CPU via connect under reset failed.  returns 0x00000000 (0521ms, 1091ms total)
+T0AF8 003:723 JLINK_Close() (0001ms, 1092ms total)
+T0AF8 003:723  (0001ms, 1092ms total)
+T0AF8 003:723 Closed (0002ms, 1093ms total)

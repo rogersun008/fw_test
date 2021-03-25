@@ -1,0 +1,14 @@
+.\exit.o: ..\User\exit.c
+.\exit.o: ..\User\ALL_Includes.h
+.\exit.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h
+.\exit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h
+.\exit.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\exit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h
+.\exit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h
+.\exit.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h
+.\exit.o: ..\User\MyType.h
+.\exit.o: ..\User\delay.h
+.\exit.o: ..\User\ALL_Includes.h
+.\exit.o: ..\User\LTC_IO.h
+.\exit.o: ..\User\time.h
+.\exit.o: ..\User\adc.h
